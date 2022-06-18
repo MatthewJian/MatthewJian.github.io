@@ -1234,13 +1234,13 @@ pre .javascript .function {
   padding: 2px;
 }
 .site-author-name {
-  color: #f5f5f5;
+  color: #fff;
   font-weight: normal;
   margin: 5px 0 0;
   text-align: center;
 }
 .site-description {
-  color: #999;
+  color: #fff;
   font-size: 1em;
   margin-top: 5px;
   text-align: center;
@@ -1259,7 +1259,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #0fb9ee;
+  background: #6221ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1272,9 +1272,9 @@ pre .javascript .function {
   margin-top: 15px;
 }
 .sidebar-button a {
-  border: 1px solid #fc6423;
+  border: 1px solid #fff;
   border-radius: 4px;
-  color: #fc6423;
+  color: #fff;
   display: inline-block;
   padding: 0 15px;
 }
@@ -1282,8 +1282,8 @@ pre .javascript .function {
   margin-right: 5px;
 }
 .sidebar-button a:hover {
-  background: #fc6423;
-  border: 1px solid #fc6423;
+  background: #fff;
+  border: 1px solid #fff;
   color: #fff;
 }
 .sidebar-button a:hover .fa {
@@ -1331,7 +1331,7 @@ pre .javascript .function {
 }
 .sidebar-nav li {
   border-bottom: 1px solid transparent;
-  color: #555;
+  color: #fff;
   cursor: pointer;
   display: inline-block;
   font-size: 0.875em;
@@ -1343,11 +1343,11 @@ pre .javascript .function {
   color: #f5f5f5;
 }
 .sidebar-nav .sidebar-nav-active {
-  border-bottom-color: #87daff;
-  color: #87daff;
+  border-bottom-color: #fff;
+  color: #fff;
 }
 .sidebar-nav .sidebar-nav-active:hover {
-  color: #87daff;
+  color: #fff;
 }
 .sidebar-panel {
   display: none;
@@ -1415,14 +1415,14 @@ pre .javascript .function {
   display: block;
 }
 .post-toc .nav .active > a {
-  border-bottom-color: #87daff;
-  color: #87daff;
+  border-bottom-color: #fff;
+  color: #fff;
 }
 .post-toc .nav .active-current > a {
-  color: #87daff;
+  color: #fff;
 }
 .post-toc .nav .active-current > a:hover {
-  color: #87daff;
+  color: #fff;
 }
 .site-state {
   display: flex;
@@ -1449,7 +1449,7 @@ pre .javascript .function {
   text-align: center;
 }
 .site-state-item-name {
-  color: inherit;
+  color: #fff;
   font-size: 0.875em;
 }
 .footer {
@@ -2409,7 +2409,7 @@ embed {
   .menu-item-active a,
   .menu .menu-item a:hover,
   .menu .menu-item span.exturl:hover {
-    border-bottom: 1px dotted #ddd !important;
+    border-bottom: 1px dotted #fff !important;
   }
 }
 @media (max-width: 767px) {
@@ -2444,7 +2444,7 @@ embed {
   }
 }
 .menu .menu-item .badge {
-  background: #eee;
+  background: #fff;
   padding: 1px 4px;
 }
 .sub-menu {
@@ -2482,13 +2482,13 @@ embed {
 }
 .sidebar a,
 .sidebar span.exturl {
-  border-bottom-color: #555;
-  color: #999;
+  border-bottom-color: #fff;
+  color: #fff;
 }
 .sidebar a:hover,
 .sidebar span.exturl:hover {
-  border-bottom-color: #eee;
-  color: #eee;
+  border-bottom-color: #fff;
+  color: #fff;
 }
 .links-of-blogroll-item {
   padding: 2px 10px;
